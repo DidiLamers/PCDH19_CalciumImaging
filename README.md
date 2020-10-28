@@ -7,7 +7,7 @@ imageGateway.m is the main program, written by Gian Michele Ratto. All other fun
 The other program contained in this folder is particleanalysisdidi.m, written by me to process calcium transients.
 
 ## Use in PCDH19 project
-In my work I, used imageGateway to obtain a binarised version of my calcium imaging data. 
+In my work I used imageGateway to obtain a binarised version of my calcium imaging data. 
 
 ## Usage
 ImageGateway allows importation of tiff and multi-tiff imaging data, then binning of the data and dF/F computation. It outputs a binarised version of the 
