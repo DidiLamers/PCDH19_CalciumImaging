@@ -2,7 +2,7 @@
 
 ## General Information
 This folder contains all the code I used to analyse the calcium imaging data for my PhD thesis on PCDH19. 
-imageGateway.m is the main program, written by Gian Michele Ratto. All other functions in the folder are called by imageGatway.
+imageGateway.m is the main program, written by Gian Michele Ratto. All other functions in the folder are called by imageGateway.
 
 The other program contained in this folder is particleanalysisdidi.m, written by me to process calcium transients.
 
